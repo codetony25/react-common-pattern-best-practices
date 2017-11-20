@@ -34,8 +34,9 @@
 * [Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
 * [Next.js is a minimalistic framework for server-rendered React applications.](https://github.com/zeit/next.js/)
 
-Common Patterns
+Resources
 * [React Patterns](https://reactjs.org/tutorial/tutorial.html)
+* [JavaScript Fatigue](http://blog.jakoblind.no/cure-for-javascript-fatigue/)
 
 Best Tutorials
 * [Best React Tutorial](https://reactjs.org/tutorial/tutorial.html)
