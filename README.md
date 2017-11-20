@@ -8,6 +8,10 @@ Setting up Configurations
 Common Patterns
 * [React Patterns](#https://reactjs.org/tutorial/tutorial.html)
 
+Best Practices
+* [Clean Code and dirty Code](#http://americanexpress.io/clean-code-dirty-code/)
+* 
+
 Best Tutorials
 * [Official React Website](#https://reactjs.org/tutorial/tutorial.html)
 
