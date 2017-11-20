@@ -1,4 +1,4 @@
-# JavaScript - It's all about the asking yourself the right questions - Modern Problem Solving.
+# JavaScript - Modern Problem Solving.
 - Is React the correct framework to use? Is it a Framework? 
 - Why use react over others? What problems does it solve?
 - What should I use with React? Mobx? Redux? None?
@@ -11,6 +11,9 @@
 - How do I think simple, modular, re-use, composibility?
 - Are we overthinking?
 
+## Overview
+## Asking the Right Questions
+## Are you over-thinking?
 
 
 ## Getting Started 
